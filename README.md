@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Mohamed Mohy]!
+# 👋 Hi, I'm Mohamed Mohy
 🧑‍💻 Python Developer | 📊 Data Analysist | ⚙️ Ai enginear
 
 ## 🌟 About Me

@@ -16,17 +16,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 📈 GitHub Stats
-## 📈 GitHub Stats
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedMohy0&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohy0&layout=compact&theme=dark)  
-![Profile Views](https://komarev.com/ghpvc/?username=MohamedMohy0&color=blue&style=flat)  
-
 
 ### 🎯 Fun Stats
 - 🎯 **Commit Streak:** ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohy0&theme=dark)  
-- 🔥 **Contribution Graph:**  
-![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohamedMohy0&theme=github-dark)  
+- 🔥 **Contribution Graph:** ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohamedMohy0&theme=github-dark)  
 - 🚀 **WakaTime Stats:** [Check my coding activity](https://wakatime.com/@MohamedMohy0)  
 
 

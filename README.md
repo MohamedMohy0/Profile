@@ -16,7 +16,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedMohy0&show_icons=true&theme=dark)
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedMohy0e&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohy0&layout=compact&theme=dark)  
+![Profile Views](https://komarev.com/ghpvc/?username=MohamedMohy0&color=blue&style=flat)  
+🗂️ **Total Repositories:** [**your-username**](https://github.com/MohamedMohy0?tab=repositories)  
 
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohmmadmohy52@gmail.com)

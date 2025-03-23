@@ -19,9 +19,9 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedMohy0&layout=compact&theme=dark)  
 
 ### 🎯 Fun Stats
-- 🎯 **Commit Streak:** ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohy0&theme=dark)  
-- 🔥 **Contribution Graph:** ![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MohamedMohy0&theme=github-dark)  
-- 🚀 **WakaTime Stats:** [Check my coding activity](https://wakatime.com/@MohamedMohy0)  
+- 🎯 **Commit Streak:**
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohamedMohy0&theme=dark)  
+
 
 
 ## 📫 Contact Me
